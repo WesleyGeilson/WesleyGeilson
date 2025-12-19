@@ -1,2 +1,17 @@
-# Wesley-Geilson
-Uma breve descrição sobre mim!
+# Opa! nem te vi haha, eu sou Wesley Geilson, muitissimo prazer! 👋
+
+## Sobre Mim
+- Desenvolvedor 🇧🇷 
+- Apaixonado por C++ e por criar soluções criativas e eficientes!
+- Sempre em desenvolvimento
+---
+## 💻👨‍💻 Tecnologias que Uso
+- Linguagens: `C`, `C++`, `Python`
+- Ferramentas: `Visual studio`, `VS Code`
+---
+## 🔗 Onde me encontrar?
+- GitHub: [Wesley Geilson](github.com).
+- E-mail: contatogeilsonwg@gmail.com
+- Instagram: [wesley_geilson](https://www.instagram.com)
+---
+*Obrigado por visitar meu perfil, vejo você depois!*
