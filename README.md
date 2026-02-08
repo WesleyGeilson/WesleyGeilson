@@ -2,12 +2,12 @@
 
 ## Sobre Mim
 - Desenvolvedor 🇧🇷 
-- Apaixonado por C++ e por criar soluções criativas e eficientes!
+- Louco por C++, python e por criar soluções criativas e eficientes!
 - Sempre em desenvolvimento
 ---
 ## 💻👨‍💻 Tecnologias que Uso
-- Linguagens: `C`, `C++`, `Python`
-- Ferramentas: `Visual studio`, `VS Code`
+- Linguagens: `C`, `C++`, `Python` `Pseudolinguagem` `Unreal`
+- Ferramentas: `Visual studio`, `VS Code` `Unreal` 
 ---
 ## 🔗 Onde me encontrar?
 - GitHub: [Wesley Geilson](github.com).
